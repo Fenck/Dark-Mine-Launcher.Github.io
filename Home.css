@@ -69,9 +69,8 @@ html::before {
     border-radius: 0.5rem;
 }
 
-/* 鼠标移动到链接的颜色 */
 .navbar a:hover {
-	background-image: linear-gradient(120deg, #169cc5 0%, #8ec5fc 100%);
+	background-color: linear-gradient(120deg, #169cc5 0%, #8ec5fc 100%);
 	color: #bdbdbd;
 }
 

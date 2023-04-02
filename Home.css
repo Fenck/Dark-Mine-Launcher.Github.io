@@ -71,7 +71,7 @@ html::before {
 
 /* 鼠标移动到链接的颜色 */
 .navbar a:hover {
-	background-color: #3f99bd;
+	background-image: linear-gradient(120deg, #169cc5 0%, #8ec5fc 100%);
 	color: #bdbdbd;
 }
 
